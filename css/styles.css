@@ -2,13 +2,13 @@ img {
   size
 }
 body {
-  background-color: pink;
+  background-color: lightblue;
   text-align: center;
 }
 h1 {
   text-align: center;
   color: brown;
-  font-size: 25;
+  font-size: 50;
 }
 .brown {
   color: brown;
