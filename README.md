@@ -4,6 +4,7 @@
 ## Description
 {This project has contents on my education background, the colleges and schools I have been through. It also details the list of my hobbies, interests and the likes. It also shows the links to some of my projects before**}
 ## Setup/Installation Requirements
+* This webpage can be viewed at https://vmayuya.github.io/vickie/.git
 * This is a great application
 * to list setup instructions
 * in a simple
